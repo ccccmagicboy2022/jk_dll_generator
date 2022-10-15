@@ -2,6 +2,7 @@ jlink dll generator工具
 0. 遍历目标目录及其子目录(默认目录为exe所在目录)；
 1. 支持的文件扩展名包括：*.dll；
 2. 支持gui模式/console模式；
-3. 支持x86及x64两种dll。
+3. 支持x86及x64两种dll；
+4. 使用pysimplegui做为UI。
 
 
